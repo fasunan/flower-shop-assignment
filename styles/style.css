@@ -150,17 +150,28 @@ margin: 30px;
     justify-content: space-around;
 }
 /* latest deal */
-.letest-deal{
-    background-image:url('../Flower\ Asset/Rectangle.png');
+.latest-deal
+{
+    color: #272727;
+    background-image: url('../Flower\ Asset/');
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+} 
+
+.mail-box{
+    width: 500px;
+height: 60px;
+border-radius: 8px;
 }
-    
+
 
 footer{
     width: 1922px;
 height: 449px;
 text-align: center;
 background-color: black;
-margin-bottom: 100px;
 }
 .footer-title{
     
@@ -172,7 +183,15 @@ margin-bottom: 100px;
 .font-color{
     color: white;
 }
-.font-color2{
-    font-size: 25px;
-    color: aliceblue;
+.small-content{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    
+}
+.footer-text{
+    padding-top: 100px;
 }
