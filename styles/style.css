@@ -143,3 +143,9 @@ color:  #f01142;
 .hot-image{
     padding-left: 300px;
 }
+
+.flower-list-2{
+margin: 30px;
+    display: flex;
+    justify-content: space-around;
+}
