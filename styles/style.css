@@ -114,3 +114,32 @@ font-weight: 700;
 line-height: 35px;
 text-decoration-line: underline;
 }
+
+.hot-deal{
+    border-radius: 8px;
+    background-color: #dfbac2;
+    text-align: center;
+    display: flex;
+}
+
+.hot-sale{
+margin-left: 200px;
+margin-right: 300px;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+.hot-deal-title{
+font-size: 50px;
+font-weight: 800;
+}
+.hot-deal-description{
+    font-size: 25px;
+font-weight: 400;
+}
+.text-color{
+color:  #f01142;
+}
+.hot-image{
+    padding-left: 300px;
+}
