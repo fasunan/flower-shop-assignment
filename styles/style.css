@@ -1,0 +1,52 @@
+/* header part */
+
+header{
+    background-color: rgb(236, 229, 221);
+    font-family: "Times New Roman", Times, serif;
+    color: #272727;
+    
+    
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  padding-inline: 280px;
+   
+   
+
+}
+.banner-greetings{
+    display: flex;
+    width: 708px;
+    font-size: 80px;
+    font-weight: 800;
+    
+
+}
+.banner-text{
+    display: flex;
+    width: 634px;
+    font-size: 25px;
+    font-weight: 400;
+   
+}
+    
+.tulip{
+    width: 645px;
+    height: 810px;
+    margin-top: 80px;
+margin-right: 240px;
+  
+}
+
+.btn-primary{
+    background-color: #E55473;
+padding: 20px 43px;
+gap: 10px;
+border-radius: 8px;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+}
