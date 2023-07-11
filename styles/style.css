@@ -12,7 +12,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-  padding-inline: 280px;
+    padding-inline: 280px;
    
    
 
@@ -37,16 +37,80 @@ header{
     width: 645px;
     height: 810px;
     margin-top: 80px;
-margin-right: 240px;
+    margin-right: 240px;
   
 }
 
 .btn-primary{
     background-color: #E55473;
-padding: 20px 43px;
-gap: 10px;
-border-radius: 8px;
-color: #FFF;
-font-size: 20px;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+/* featured styles */
+
+ section{
+    padding: 170px;
+
+ }
+
+.featured-title{
+    color: #272727;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+.featured-discription{
+   
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.flower-list{
+        padding: 100px;
+    justify-content:center;
+    display: flex;
+    
+    
+    }
+.flower-1{
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgb(95, 129, 118);
+    margin-right: 45px;
+    width: 490px;
+    height: 590px;
+}
+
+
+.flower-2{
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgb(43, 155, 155);
+    width: 490px;
+    height: 590px;
+}
+
+
+.flower-3{
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgb(151, 79, 115);
+    margin-left: 45px;
+    width: 490px;
+    height: 590px;
+}
+
+.caption{
+    color: #272727;
+text-align: center;
+font-size: 24px;
 font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
 }
