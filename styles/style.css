@@ -149,3 +149,30 @@ margin: 30px;
     display: flex;
     justify-content: space-around;
 }
+/* latest deal */
+.letest-deal{
+    background-image:url('../Flower\ Asset/Rectangle.png');
+}
+    
+
+footer{
+    width: 1922px;
+height: 449px;
+text-align: center;
+background-color: black;
+margin-bottom: 100px;
+}
+.footer-title{
+    
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal; ;
+}
+.font-color{
+    color: white;
+}
+.font-color2{
+    font-size: 25px;
+    color: aliceblue;
+}
